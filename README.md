@@ -1,4 +1,4 @@
-# FMCW-SAR-3D-FFT
+# FMCW-SAR-RMA
 Code written by Aditya Varma Muppala for YouTube tutorial on FMCW Range Migration.
 A very similar code is also available on my GitHub to go with the paper titled: "Fast-Fourier Time-Domain SAR Reconstruction for Millimeter-Wave FMCW 3-D Imaging". 
 I suggest using this code instead because the exposition is a bit better and goes hand in hand with the video.
